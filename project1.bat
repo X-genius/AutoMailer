@@ -1,0 +1,1 @@
+node FireLettermail.js "credential.json"
