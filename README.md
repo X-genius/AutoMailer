@@ -3,6 +3,6 @@ In this project I'm using selenium web-driver framework with await promises.In t
 
 # Gif - How to Automation work
 
-<a href="https://imgflip.com/gif/4fekpv"><img src = "https://i.imgflip.com/4fekpv.gif" title = "made at impflip.com" width = "400" height = "200">
+<a href="https://imgflip.com/gif/4fekpv"><img src = "https://i.imgflip.com/4fekpv.gif" title = "made at impflip.com" width = "600" height = "400">
 
 
